@@ -1,0 +1,1 @@
+import './demo.txt';   //导入这个依赖
